@@ -1,0 +1,23 @@
+.produtos {
+  display: inline-block;
+  text-align: center;
+}
+
+.box-produto {
+  width: 100%;
+  vertical-align: bottom;
+  font-size: 12px;
+  text-align: center;
+  padding: 28px 20px;
+  display: grid;
+  justify-items: center;
+  align-self: flex-end;
+}
+
+.box-produto img {
+  width: 120px;
+}
+
+.preco_final {
+  color: red;
+}

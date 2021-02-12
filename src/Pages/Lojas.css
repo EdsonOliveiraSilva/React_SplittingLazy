@@ -1,0 +1,8 @@
+.lojas{
+    display: inline-block;
+    vertical-align: text-top;
+    align-items: center ;
+    margin: 10px;
+    padding-right: 270px;
+    height: 380px;
+}

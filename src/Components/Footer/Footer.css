@@ -1,0 +1,15 @@
+
+  
+.rodape img {
+  width: 420px;
+}
+
+.formas_pagamento{
+  font-weight: bolder;
+}
+
+footer {
+    margin-top: 10vh;
+    text-align: center;
+    height: 10vh;
+}
